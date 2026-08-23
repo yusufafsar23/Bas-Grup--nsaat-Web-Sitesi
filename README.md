@@ -1,6 +1,6 @@
 # 🏢 Baş Grup İnşaat — Corporate & Portfolio Web Platform
 
-🌐 **Live Web / Canlı Site:** [https://basgrupinsaat.com](https://basgrupinsaat.com) *(veya yayındaki domaininiz)*
+🌐 **Live Web / Canlı Site:** [https://basgrupinsaat.com](https://basgrupinsaat.com) 
 
 A modern, high-performance, and visually prestigious corporate web platform & architectural portfolio designed for **Baş Grup İnşaat**! *(Baş Grup İnşaat için geliştirilmiş modern, prestijli, yüksek performanslı kurumsal web platformu ve interaktif mimari portföy vitrini!)*
 
