@@ -2,7 +2,8 @@
 
 🌐 **Live Web / Canlı Site:** [https://basgrupinsaat.com](https://basgrupinsaat.com) 
 
-A modern, high-performance, and visually prestigious corporate web platform & architectural portfolio designed for **Baş Grup İnşaat**! *(Baş Grup İnşaat için geliştirilmiş modern, prestijli, yüksek performanslı kurumsal web platformu ve interaktif mimari portföy vitrini!)*
+A modern, high-performance, and visually prestigious corporate web platform & architectural portfolio designed for **Baş Grup İnşaat**! 
+*(Baş Grup İnşaat için geliştirilmiş modern, prestijli, yüksek performanslı kurumsal web platformu ve interaktif mimari portföy vitrini!)*
 
 ---
 
@@ -24,25 +25,32 @@ The primary objective of the platform is to deliver a seamless, ultra-fast, and 
   Custom Navy & Gold corporate palette, glassmorphic frosted-glass accents, and refined typography (Montserrat & Open Sans) conveying trust, luxury, and solid architectural heritage. *(Güven, sağlamlık ve lüks hissini yansıtan Lacivert & Altın kurumsal renk paleti, modern cam (glassmorphism) efektleri ve Montserrat & Open Sans tipografisi.)*
 
 - 🖼️ **Interactive Project Showcase & Multi-Photo Lightbox (İnteraktif Proje Vitrini & Gelişmiş Lightbox):** 
-  Categorized architectural portfolio (Residential, Commercial, Urban Transformation) with dynamic multi-angle project galleries, interactive modal viewing, full-screen lightbox, thumbnail strip navigation, and touch/swipe & keyboard support. *(Konut, Ticari ve Kentsel Dönüşüm projeleri için çoklu fotoğraf desteğine sahip dinamik inceleme modalı, tam ekran lightbox, küçük resim gezintisi ve klavye/dokunmatik uyumlu galeri deneyimi.)*
+  Categorized architectural portfolio (Residential, Commercial, Urban Transformation) with dynamic multi-angle project galleries, interactive modal viewing, full-screen lightbox, thumbnail strip navigation, and touch/swipe & keyboard support.
+  *(Konut, Ticari ve Kentsel Dönüşüm projeleri için çoklu fotoğraf desteğine sahip dinamik inceleme modalı, tam ekran lightbox, küçük resim gezintisi ve klavye/dokunmatik uyumlu galeri deneyimi.)*
 
 - ⚡ **Zero-Dependency Static Architecture (Sıfır Bağımlılık & Yüksek Hız):** 
-  Engineered purely with vanilla HTML5, modular CSS3, and modern ES6+ JavaScript. Ultra-low latency, zero external heavy framework overhead, instant page transitions, and 100/100 Lighthouse-oriented performance. *(Ağır framework yükleri olmadan, saf HTML5, modüler CSS3 ve modern ES6+ JavaScript ile inşa edilmiş sıfır bağımlılıklı, anında yüklenen ve maksimum hız sunan statik mimari.)*
+  Engineered purely with vanilla HTML5, modular CSS3, and modern ES6+ JavaScript. Ultra-low latency, zero external heavy framework overhead, instant page transitions, and 100/100 Lighthouse-oriented performance.
+  *(Ağır framework yükleri olmadan, saf HTML5, modüler CSS3 ve modern ES6+ JavaScript ile inşa edilmiş sıfır bağımlılıklı, anında yüklenen ve maksimum hız sunan statik mimari.)*
 
 - 📊 **Scroll-Triggered Live Metrics (Intersection Observer Sayaç Animasyonları):** 
-  Dynamic counting animations (36+ Years of Experience, 25+ Completed Landmark Projects, 1000+ Happy Families) activated dynamically when scrolling into view via Intersection Observer API. *(Kullanıcı ekrana kaydırdığında tetiklenen 36+ yıllık tecrübe, 25+ tamamlanan prestijli proje ve 1000+ mutlu müşteri canlı sayaç animasyonları.)*
+  Dynamic counting animations (36+ Years of Experience, 25+ Completed Landmark Projects, 1000+ Happy Families) activated dynamically when scrolling into view via Intersection Observer API. 
+*(Kullanıcı ekrana kaydırdığında tetiklenen 36+ yıllık tecrübe, 25+ tamamlanan prestijli proje ve 1000+ mutlu müşteri canlı sayaç animasyonları.)*
 
 - 📸 **Optimized Next-Gen Media Engine (WebP Görsel Optimizasyonu):** 
-  High-resolution architectural photography fully converted and compressed into modern `.webp` formats for instantaneous loading without sacrificing visual fidelity. *(Tüm mimari ve iç mekan fotoğraflarının görsel netlikten ödün vermeden ultra hızlı açılması için WebP formatında optimize edilmiş görsel varlıklar.)*
+  High-resolution architectural photography fully converted and compressed into modern `.webp` formats for instantaneous loading without sacrificing visual fidelity.
+  *(Tüm mimari ve iç mekan fotoğraflarının görsel netlikten ödün vermeden ultra hızlı açılması için WebP formatında optimize edilmiş görsel varlıklar.)*
 
 - 📍 **Integrated Contact & Location Hub (Kapsamlı İletişim & Lokasyon Entegrasyonu):** 
-  Direct multi-executive contact routing (Contractors & Finance Directors), interactive Google Maps embed, click-to-call, email gateways, and structured address modules. *(Firma yetkililerine tek tıkla doğrudan arama ve e-posta bağlantıları, interaktif Google Haritalar entegrasyonu ve kurumsal merkez bilgileri.)*
+  Direct multi-executive contact routing (Contractors & Finance Directors), interactive Google Maps embed, click-to-call, email gateways, and structured address modules.
+  *(Firma yetkililerine tek tıkla doğrudan arama ve e-posta bağlantıları, interaktif Google Haritalar entegrasyonu ve kurumsal merkez bilgileri.)*
 
 - 📱 **Cross-Platform Fluid Responsiveness (Kusursuz Mobil & Tablet Uyumu):** 
-  Mobile-first fluid responsive grid and flexbox structure, smart sliding mobile drawer navigation, adaptive header scroll states, and touch-friendly interface elements across all screen dimensions. *(Tüm ekran boyutlarında kusursuz çalışan esnek grid/flex yapısı, akıllı kayan mobil menü ve dokunmatik cihazlara özel optimize edilmiş etkileşimler.)*
+  Mobile-first fluid responsive grid and flexbox structure, smart sliding mobile drawer navigation, adaptive header scroll states, and touch-friendly interface elements across all screen dimensions.
+  *(Tüm ekran boyutlarında kusursuz çalışan esnek grid/flex yapısı, akıllı kayan mobil menü ve dokunmatik cihazlara özel optimize edilmiş etkileşimler.)*
 
 - 🔍 **Enterprise SEO & OpenGraph Protocol (Kapsamlı SEO ve Sosyal Medya Uyumu):** 
-  Optimized meta descriptions, keyword indexing, OpenGraph preview cards for social media sharing, dynamic sitemap.xml, robots.txt, and web app manifest integration. *(Arama motorlarında üst sıralar için optimize edilmiş meta etiketleri, OpenGraph paylaşım kartları, sitemap.xml, robots.txt ve webmanifest yapılandırması.)*
+  Optimized meta descriptions, keyword indexing, OpenGraph preview cards for social media sharing, dynamic sitemap.xml, robots.txt, and web app manifest integration.
+ *(Arama motorlarında üst sıralar için optimize edilmiş meta etiketleri, OpenGraph paylaşım kartları, sitemap.xml, robots.txt ve webmanifest yapılandırması.)*
 
 ---
 
@@ -95,8 +103,4 @@ Bas Grup Web/
 
 ---
 
-## 👨‍💻 Developed By (Geliştirici)
 
-- **Developer:** **Afşar Yazılım**
-- **Contact:** [afsarsoft1@gmail.com](mailto:afsarsoft1@gmail.com)
-- **Client:** **Baş Grup İnşaat Ltd. Şti.**
